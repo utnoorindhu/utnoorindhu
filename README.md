@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Indhu Utnoor</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<h3 align="(img align="right" alt="Coding" width="400" src="https://www.shutterstock.com/image-photo/python-programming-language-developer-girl-sitting-1788873530/programmer.gif.">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif.>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utnoorindhu&label=Profile%20views&color=0e75b6&style=flat" alt="utnoorindhu" /> </p>
 
 - 🔭 I’m currently working on **Yoamigos Webservice Private Limited**
