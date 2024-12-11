@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Indhu Utnoor</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer </h3>
 <img align="right" alt="Coding" width="400" src="https://tenor.com/view/programming-gif-25868426.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utnoorindhu&label=Profile%20views&color=0e75b6&style=flat" alt="utnoorindhu" /> </p>
 
 - 🔭 I’m currently working on **Yoamigos Webservice Private Limited**
-
-- 🌱 I’m currently learning **React.js,Node.js**
 
 - 👯 I’m looking to collaborate on **Python Developer**
 
